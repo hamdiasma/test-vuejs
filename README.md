@@ -22,11 +22,13 @@ Frontend (Vue.js)
 ****Lancer le projet locale(dev)
 Backend NestJS
 -cd backend
--npm run start:dev
+-npm run start:dev  
+-Port : 3000
 
 Frontend Vue.js
 -cd frontend
 -npm run start:dev
+-Port 8080
 
 
 ****Architecture
